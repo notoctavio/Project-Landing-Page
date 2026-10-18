@@ -157,3 +157,58 @@ nav {
     font-weight: 600;
     text-align: right;
 }
+
+.cta-section {
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.cta-card {
+    background-color: #3882F6;
+    width: 100%;
+    max-width: 950px;
+    padding: 48px 80px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.cta-text {
+    color: #F9FAF8;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 4px;
+
+}
+
+.cta-text p {
+    color: #F9FAF8;
+    font-size: 16px;
+}
+
+.cta-button button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 32px;
+    border: 2px solid #F9FAF8;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.footer {
+    background-color: #1F2937;
+    padding: 32px 0;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text {
+    color: #E5E7EB;
+    font-size: 14px;
+}
+    
